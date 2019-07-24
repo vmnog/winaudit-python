@@ -18,6 +18,7 @@ I couldn't find a way to interact with the program without needing of moving the
 First of all you need to fix the settings in the winaudit program like (check the code and read the comments):
 - the time you need to wait until the diag is done
 - the format that is been saved ( I rater choose pdf)
+- the folder the reports are going to be saved
 - make sure that the program will be open in full screen ( or adjust the position of the pixels )
 
 
